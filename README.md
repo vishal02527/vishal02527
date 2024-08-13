@@ -1,8 +1,13 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vishal02527&label=Profile%20views&color=0e75b6&style=flat" alt="vishal02527" /> </p>
+<p align="left"> 
+ <img src="https://komarev.com/ghpvc/?username=vishal02527&label=Profile%20views&color=0e75b6&style=flat" alt="vishal02527" /> 
+ <img alt="Stars" src="https://img.shields.io/github/stars/vishal02527?style=flat&labelColor=343b41"/> 
+</p>
  
  # <div align="center"> 👨‍🎓 Hello! I am [Vishal Kumar...](https://vishal-creator-profile.netlify.app/) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="25px"> </div>
 <h3 align="center">A Passionate Java/Web developer | Software Engineer Enthusiast</h3>
 <br />
+
+![Profile Banner](https://github.com/vishal02527/vishal02527/blob/main/Profile%20Banner.png)
 
  #### _Welcome To My GitHub Profile._
   
@@ -55,6 +60,9 @@
 ![Microsoft Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)
 
 <br />
+
+## 📊 _GSSoC'24 Stats:_
+![gssoc stats](https://github.com/vishal02527/vishal02527/blob/main/GSSoC24_Stats.png)
 
 ## 📊 _GitHub Stats:_
 ![Vishal Kumar's GitHub stats](https://github-readme-stats.vercel.app/api?username=vishal02527&show_icons=true&theme=dark)
