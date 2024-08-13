@@ -26,8 +26,10 @@
     <img src="https://img.shields.io/badge/Profile-B7472A?style=for-the-badge&logo=Profile&logoColor=white" alt="Profile Badge"/>
   </a>
 </div>
-<br />
+<img align= "right" alt= "coder" width="300" height="180" src="https://user-images.githubusercontent.com/74038190/219923823-bf1ce878-c6b8-4faa-be07-93e6b1006521.gif" />
+<br /><br /><br />
 
+<br /><br />
 ## 🧑‍💻Technical Skills:
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,java,html,css,javascript,react&perline=8)](https://skillicons.dev)
 
