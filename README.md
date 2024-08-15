@@ -9,9 +9,25 @@
 
 ![Profile Banner](https://github.com/vishal02527/vishal02527/blob/main/Profile%20Banner.png)
 
- #### _Welcome To My GitHub Profile._
+ #### _Welcome To My GitHub Profile._ [![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-13%2008%202024-red)](https://github.com/vishal02527)
+
+ ## 🧑‍💻About Me:
+
+<img align="right" alt= "coder" width="300" height="240" src="https://github.com/vishal02527/vishal02527/blob/main/coding-gif-1-unscreen.gif" />
+
+ - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Graduation%20Cap.png" alt="Graduation Cap" width="30" align="center" /> Computer science **Student** and more passionate about **Software Development**
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Globe%20Showing%20Asia-Australia.png" alt="Globe Showing Asia-Australia" width="30" align="center" /> Open Source Contributor from **India** 🇮🇳
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Star.png" alt="Star" width="30" align=center /> I’m currently working on my **Personal** and **Professional** growth
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake" width="30" align=center /> I’m looking to collaborate with **Open Source Enthusiasts** and **Developers**
+- <img align='left' src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="24" align="center"> **Projects** are available at
+  [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white)](https://github.com/vishal02527)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=flat-square&logo=firefox&logoColor=#FF7139)](https://vishal-creator-profile.netlify.app/)
+  [![Codepen](https://img.shields.io/badge/Codepen-%23000000.svg?style=flat-square&logo=codepen&logoColor=#FF7139)](https://codepen.io/Vishal-Kumar25)
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gem%20Stone.png" alt="Gem Stone" width="24" align=center /> **2024 Goals:** Practice **DSA**, **Programming Languages** and Preparation for the **Job**
+
+
   
-## 🌐Connect With Me:
+<h2><img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="90px" style="max-width: 100%; user-select: auto;">Connect with me:</h2>
 <div id="badges">
   <a href="https://github.com/vishal02527">
     <img src="https://img.shields.io/badge/Github-013243?style=for-the-badge&logo=Github&logoColor=white" alt="Github Badge"/>
@@ -19,7 +35,7 @@
    <a href="https://www.linkedin.com/in/vishal-kumar-8303a3283">
     <img src="https://img.shields.io/badge/Linkedin-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin Badge"/>
   </a>
-  <a href="https://www.linkedin.com/in/vishal-kumar-8303a3283">
+  <a href="https://codepen.io/Vishal-Kumar25">
     <img src="https://img.shields.io/badge/Codepen-gray?style=for-the-badge&logo=codepen&logoColor=white" alt="Codepen Badge"/>
   </a>
    <a href="https://vishal-creator-profile.netlify.app/">
@@ -27,11 +43,7 @@
   </a>
 </div>
 
-<div align="center">
-  <img alt= "coder" width="400" height="300" src="https://github.com/vishal02527/vishal02527/blob/main/coding-gif-1-unscreen.gif" />
-</div>
-
-## 🧑‍💻Technical Skills:
+## 💻Technical Skills:
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,java,html,css,javascript,react&perline=8)](https://skillicons.dev)
 
 ## 👤Soft Skills:
