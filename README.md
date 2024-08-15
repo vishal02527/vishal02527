@@ -26,10 +26,11 @@
     <img src="https://img.shields.io/badge/Profile-B7472A?style=for-the-badge&logo=Profile&logoColor=white" alt="Profile Badge"/>
   </a>
 </div>
-<img align= "right" alt= "coder" width="300" height="180" src="https://user-images.githubusercontent.com/74038190/219923823-bf1ce878-c6b8-4faa-be07-93e6b1006521.gif" />
-<br /><br /><br />
 
-<br /><br />
+<div align="center">
+  <img alt= "coder" width="400" height="300" src="https://github.com/vishal02527/vishal02527/blob/main/coding-gif-1-unscreen.gif" />
+</div>
+
 ## 🧑‍💻Technical Skills:
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,java,html,css,javascript,react&perline=8)](https://skillicons.dev)
 
@@ -64,7 +65,9 @@
 <br />
 
 ## 📊 _GSSoC'24 Stats:_
-![gssoc stats](https://github.com/vishal02527/vishal02527/blob/main/GSSoC24_Stats.png)
+<img alt= "gssoc 2024 stats" width="1020" height="400" src="https://github.com/vishal02527/vishal02527/blob/main/GSSoC24_Stats.png" />
+
+<br />
 
 ## 📊 _GitHub Stats:_
 ![Vishal Kumar's GitHub stats](https://github-readme-stats.vercel.app/api?username=vishal02527&show_icons=true&theme=dark)
