@@ -9,8 +9,8 @@
 
 ![Profile Banner](https://github.com/vishal02527/vishal02527/blob/main/Profile%20Banner.png)
 
- #### _Welcome To My GitHub Profile._ [![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-13%2008%202024-red)](https://github.com/vishal02527)
-
+ #### _Welcome To My GitHub Profile._ 
+ 
  ## 🧑‍💻About Me:
 
 <img align="right" alt= "coder" width="300" height="240" src="https://github.com/vishal02527/vishal02527/blob/main/coding-gif-1-unscreen.gif" />
